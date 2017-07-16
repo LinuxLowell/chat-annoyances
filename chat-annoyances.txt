@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Version: 20170716
+! Title: Chat Annoyances
+! Last modified: 20170716 23:00 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/LinuxLowell/chat-annoyances
+!
+||intercom.io
+||onesignal.com
+||liveperson.net
+||livechatinc.com
+||snapengage.com
+app.chatnox.com
+support.kayako.com/messenger
+||zopim.io
+||zopim.com
+*/phplive
