@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/LinuxLowell/chat-annoyances/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LinuxLowell/chat-annoyances/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Ton install in uBlock Origin, Chromium (or other Chrome based browsers)
+1. Open the uBlock Origins Dashboard.  You do that by clicking on the uBlock shield and then click the black title bar at the top of the popup.
+2. Click on the "3rd Party Filters" tab and scroll all the way to the bottom.
+3. Paste the URL below into the "Custom" Filter Box.
+`https://raw.githubusercontent.com/LinuxLowell/chat-annoyances/master/chat-annoyances.txt`
+4. Scroll back to the top and click "Apply"
