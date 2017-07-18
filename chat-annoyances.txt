@@ -2,7 +2,7 @@
 ! Version: 20170716
 ! Title: Chat Annoyances
 ! Last modified: 20170716 23:00 UTC
-! Expires: 4 days (update frequency)
+! Expires: 15 days (update frequency)
 ! Homepage: https://github.com/LinuxLowell/chat-annoyances
 !
 ||intercom.io
@@ -17,5 +17,8 @@ support.kayako.com/messenger
 */phplive
 ||chatwee-api.com
 ||tawk.to
-! embedded-chat
 ^code-1-1.js
+*/chat.js
+*/facebookchat.js
+*/chatwing.js
+*api.purechat.com
