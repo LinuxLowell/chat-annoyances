@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20170716
+! Version: 20170719
 ! Title: Chat Annoyances
-! Last modified: 20170716 23:00 UTC
+! Last modified: 20170719 01:45 UTC
 ! Expires: 15 days (update frequency)
 ! Homepage: https://github.com/LinuxLowell/chat-annoyances
 !
