@@ -15,3 +15,7 @@ support.kayako.com/messenger
 ||zopim.io
 ||zopim.com
 */phplive
+||chatwee-api.com
+||tawk.to
+! embedded-chat
+^code-1-1.js
