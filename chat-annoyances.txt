@@ -2,23 +2,28 @@
 ! Version: 20170719
 ! Title: Chat Annoyances
 ! Last modified: 20170719 01:45 UTC
-! Expires: 15 days (update frequency)
+! Expires: 30 days (update frequency)
 ! Homepage: https://github.com/LinuxLowell/chat-annoyances
 !
-||intercom.io
-||onesignal.com
-||liveperson.net
-||livechatinc.com
-||snapengage.com
-app.chatnox.com
-support.kayako.com/messenger
-||zopim.io
-||zopim.com
+widget.intercom.io$script
+||liveperson.net/api*$script
+! ||livechatinc.com
+||snapengage.com/chatjs/*$script
+chatnoxapp.appspot.com/site/chat.js
+||kayako*.com/messenger^$script
+v*.zopim.com/?zopim$script
 */phplive
-||chatwee-api.com
-||tawk.to
+||chatwee-api.com$script
+embed.tawk.to$script
 ^code-1-1.js
 */chat.js
 */facebookchat.js
 */chatwing.js
 *api.purechat.com
+^App/widget/chatWidget*.js
+widgets.getsitecontrol.com*script.js
+*website_chat_widget.asp
+||zendesk.com*host.js
+*GetOnlineChatUrl*
+js.driftt.com/dist/assets/widget*prod.js
+call.chatra.io/chatra.js
