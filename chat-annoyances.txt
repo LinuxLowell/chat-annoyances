@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 20170719
 ! Title: Chat Annoyances
-! Last modified: 20170719 01:45 UTC
+! Last modified: 20170822 18:30 UTC
 ! Expires: 30 days (update frequency)
 ! Homepage: https://github.com/LinuxLowell/chat-annoyances
 !
@@ -11,7 +11,7 @@ widget.intercom.io$script
 ||snapengage.com/chatjs/*$script
 chatnoxapp.appspot.com/site/chat.js
 ||kayako*.com/messenger^$script
-v*.zopim.com/?zopim$script
+v*.zopim.com$script
 */phplive
 ||chatwee-api.com$script
 embed.tawk.to$script
@@ -27,3 +27,4 @@ widgets.getsitecontrol.com*script.js
 *GetOnlineChatUrl*
 js.driftt.com/dist/assets/widget*prod.js
 call.chatra.io/chatra.js
+||mylivechat.com/chatinline.aspx
