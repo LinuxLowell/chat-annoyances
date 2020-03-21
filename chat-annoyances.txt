@@ -26,5 +26,6 @@ widgets.getsitecontrol.com*script.js
 ||zendesk.com*host.js
 *GetOnlineChatUrl*
 js.driftt.com/dist/assets/widget*prod.js
+js.driftt.com/include/*
 call.chatra.io/chatra.js
 ||mylivechat.com/chatinline.aspx
