@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20170719
+! Version: 20260204
 ! Title: Chat Annoyances
-! Last modified: 20170822 18:30 UTC
+! Last modified: 20260204 20:17 UTC
 ! Expires: 30 days (update frequency)
 ! Homepage: https://github.com/LinuxLowell/chat-annoyances
 !
@@ -29,3 +29,4 @@ js.driftt.com/dist/assets/widget*prod.js
 js.driftt.com/include/*
 call.chatra.io/chatra.js
 ||mylivechat.com/chatinline.aspx
+cdn-bot.phenompeople.com
